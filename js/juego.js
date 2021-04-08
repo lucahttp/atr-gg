@@ -5,7 +5,7 @@ var cronoanda = 1;
 
 
     //-----------------------------------------------reloj temporizador-------------------------------------------
-    var milisegundos = 5000;
+    var milisegundos = 60000;
 
     function reloj() {
         cronoanda=1
